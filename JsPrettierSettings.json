@@ -1,0 +1,9 @@
+{
+	"node_path": "/Users/zachtruong/.nvm/versions/node/v16.14.0/bin/node",
+	"prettier_cli_path": "/Users/zachtruong/.nvm/versions/node/v16.14.0/bin/prettier",
+	"auto_format_on_save": true,
+	"prettier_options": {
+		"singleQuote": true,
+		"jsxSingleQuote": true
+	}
+}

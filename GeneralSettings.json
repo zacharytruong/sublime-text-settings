@@ -1,0 +1,14 @@
+{
+	"theme": "ayu-dark.sublime-theme",
+	"color_scheme": "ayu-dark.sublime-color-scheme",
+	"ignored_packages": ["Vintage"],
+	"font_size": 16,
+	"font_face": "Operator Mono Light",
+	"preview_on_click": false,
+	"margin": 4,
+	"tab_size": 2,
+	"caret_style": "smooth",
+	"file_tab_style": "rounded",
+	"inactive_sheet_dimming": true,
+	"save_on_focus_lost": true
+}

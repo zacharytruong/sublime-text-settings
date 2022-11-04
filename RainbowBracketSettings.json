@@ -1,0 +1,63 @@
+// RainbowBrackets Preferences – User
+// ====================================================
+
+{
+    "syntax_specific": {
+        "Bash": {
+            "coloring": false,
+
+            "ignored_scopes": "keyword"
+        },
+
+        "JSON": {
+            "bracket_pairs": {
+                "{": "}",
+                "[": "]",
+                "(": ")"
+            },
+
+            "extensions": [
+                ".json",
+                ".sublime-settings",
+                ".sublime-menu",
+                ".sublime-build",
+                ".sublime-keymap",
+                ".sublime-commands",
+                ".sublime-theme",
+                ".sublime-color-scheme"
+            ],
+
+            "ignored_scopes": ["comment", "string"]
+        },
+
+        "Regular Expression": {
+            "extensions": [".sublime-syntax"],
+
+            "ignored_scopes": ["meta.set.regexp"]
+        },
+
+        "Scheme": {
+            "bracket_pairs": {
+                "(": ")",
+                "[": "]",
+                "{": "}"
+            },
+
+            "extensions": [".scm", ".ss"],
+
+            "ignored_scopes": ["comment", "string"]
+        },
+
+        "JavaScript": {
+            "bracket_pairs": {
+                "(": ")",
+                "[": "]",
+                "{": "}"
+            },
+
+            "extensions": [".js", ".jsx", ".ts", ".tsx"],
+
+            "ignored_scopes": ["comment", "string"]
+        }
+    }
+}
